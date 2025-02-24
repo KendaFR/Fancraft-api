@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/src/main/java/fr/kenda/funkraftApi/bungeecord/database/Database.java;D:/Bureau/IntellijPlugin/funkraft/funkraft-api/src/main/java/fr/kenda/funkraftApi/bungeecord/database/DatabaseRedis.java;D:/Bureau/IntellijPlugin/funkraft/funkraft-api/src/main/java/fr/kenda/funkraftApi/bungeecord/managers/DatabaseManager.java;D:/Bureau/IntellijPlugin/funkraft/funkraft-api/src/main/java/fr/kenda/funkraftApi/bungeecord/managers/IManager.java;D:/Bureau/IntellijPlugin/funkraft/funkraft-api/src/main/java/fr/kenda/funkraftApi/bungeecord/FunkraftApiBungee.java;D:/Bureau/IntellijPlugin/funkraft/funkraft-api/src/main/java/fr/kenda/funkraftApi/spigot/managers/DatabaseManager.java;D:/Bureau/IntellijPlugin/funkraft/funkraft-api/src/main/java/fr/kenda/funkraftApi/spigot/managers/IManager.java;D:/Bureau/IntellijPlugin/funkraft/funkraft-api/src/main/java/fr/kenda/funkraftApi/spigot/utils/ItemBuilder.java;D:/Bureau/IntellijPlugin/funkraft/funkraft-api/src/main/java/fr/kenda/funkraftApi/spigot/utils/SkullBuilder.java;D:/Bureau/IntellijPlugin/funkraft/funkraft-api/src/main/java/fr/kenda/funkraftApi/spigot/FunkraftApi.java" />
+  </component>
+</project>

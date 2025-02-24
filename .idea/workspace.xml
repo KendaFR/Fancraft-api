@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4e903603-8543-497f-b5fe-d9b1a9e0f6ad" name="Changes" comment="Init commit">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/kenda/fancraftAPI/spigot/utils/FileDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/kenda/fancraftAPI/spigot/utils/FileDatabase.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "KendaFR"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/KendaFR/Fancraft-api.git",
+    "accountId": "04cf3e31-546d-4ed5-b18b-37ddecd4cf93"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2sUw4QHarKgdm5m1Gq9yXht9IrX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.fancraft-api [clean].executor": "Run",
+    "Maven.fancraft-api [install].executor": "Run",
+    "Maven.fancraft-api [package].executor": "Run",
+    "Maven.funkraft-api [clean].executor": "Run",
+    "Maven.funkraft-api [install:install-file...].executor": "Run",
+    "Maven.funkraft-api [install].executor": "Run",
+    "Maven.funkraft-api [package].executor": "Run",
+    "Maven.funkraft-api [site].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Bureau/IntellijPlugin/funkraft/funkraft-api",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.345977",
+    "settings.editor.selected.configurable": "preferences.sourceCode.Java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="fr.kenda.fancraftAPI.bungeecord.commands" />
+      <recent name="fr.kenda.fancraftAPI.bungeecord.events" />
+      <recent name="fr.kenda.funkraftApi.bungeecord.utils" />
+      <recent name="fr.kenda.funkraftApi.bungeecord.config" />
+      <recent name="fr.kenda.funkraftApi.spigot.serive" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Bureau\IntellijPlugin\funkraft\funkraft-api\src\main\java\fr\kenda\fancraftAPI\spigot\database" />
+      <recent name="D:\Bureau\IntellijPlugin\funkraft\funkraft-api\src\main\java\fr\kenda\funkraftApi\spigot" />
+      <recent name="D:\Bureau\IntellijPlugin\funkraft\funkraft-api\src\main\java\fr\kenda\funkraftApi\bungeecord" />
+      <recent name="D:\Bureau\IntellijPlugin\funkraft\funkraft-api\src\main\java\fr\kenda\funkraftApi\utils" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="fr.kenda.fancraftAPI.spigot.utils" />
+      <recent name="fr.kenda.fancraftAPI.spigot.managers" />
+      <recent name="fr.kenda.funkraftApi.bungeecord.config" />
+      <recent name="fr.kenda.funkraftApi.bungeecord.managers" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn install:install-file -Dfile=&quot;D:\Bureau\IntellijPlugin\funkraft\funkraft-api\target\funkraft-api-1.0.jar&quot; -DgroupId=com.funkraft -DartifactId=funkraft-api -Dversion=1.0 -Dpackaging=jar " />
+      <command value="mvn install:install-file -Dfile=D:/Bureau/IntellijPlugin/funkraft/funkraft-api/target/funkraft-api-1.0.jar -DgroupId=com.funkraft -DartifactId=funkraft-api -Dversion=1.0 -Dpackaging=jar " />
+      <command value="mvn install:install-file -Dfile=D:/Bureau/IntellijPlugin/funkraft/funkraft-api/target/funkraft-api-1.0.jar -DgroupId=fr.funkraft -DartifactId=funkraft-api -Dversion=1.0 -Dpackaging=jar " />
+      <command value="mvn install:install-file -Dfile=D:/Bureau/IntellijPlugin/funkraft/funkraft-api/target/funkraft-api-1.0.jar -DgroupId=fr.kenda -DartifactId=funkraft-api -Dversion=1.0 -Dpackaging=jar " />
+    </option>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.22562.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Init commit" />
+  </component>
+</project>

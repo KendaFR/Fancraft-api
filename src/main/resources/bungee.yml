@@ -1,0 +1,6 @@
+name: fancraft-api
+version: '1.0'
+main: fr.kenda.fancraftAPI.bungeecord.FancraftApiBungee
+api-version: '1.19'
+authors: [ Kenda ]
+description: Plugin API for Fancraft server

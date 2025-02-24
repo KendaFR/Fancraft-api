@@ -1,0 +1,11 @@
+database:
+  mysql:
+    host: "127.0.0.1"
+    port: 3306
+    user: "funkraft"
+    password: "root"
+    database: "funkraft"
+  redis:
+    host: "127.0.0.1"
+    port: 6379
+    password: ""
