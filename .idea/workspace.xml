@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e903603-8543-497f-b5fe-d9b1a9e0f6ad" name="Changes" comment="Init commit">
+      <change afterPath="$PROJECT_DIR$/.idea/GitLink.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/fr/kenda/fancraftAPI/spigot/utils/FileDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/kenda/fancraftAPI/spigot/utils/FileDatabase.java" afterDir="false" />
     </list>
@@ -25,18 +26,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "KendaFR"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;KendaFR&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/KendaFR/Fancraft-api.git",
-    "accountId": "04cf3e31-546d-4ed5-b18b-37ddecd4cf93"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/KendaFR/Fancraft-api.git&quot;,
+    &quot;accountId&quot;: &quot;04cf3e31-546d-4ed5-b18b-37ddecd4cf93&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -57,6 +58,7 @@
     "Maven.funkraft-api [package].executor": "Run",
     "Maven.funkraft-api [site].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/Bureau/IntellijPlugin/funkraft/funkraft-api",
@@ -103,6 +105,17 @@
     </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init commit" />
     <option name="LAST_COMMIT_MESSAGE" value="Init commit" />
