@@ -13,7 +13,7 @@ public class MessageUtils {
     }
 
     public static void sendLogErrorConsole(String msg) {
-        FancraftApiBungee.getInstance().getProxy().getConsole().sendMessage(transformColor(msg));
+        FancraftApiBungee.getInstance().getProxy().getConsole().sendMessage(transformColor("&c" + msg));
     }
 
     public static TextComponent transformColor(String msg) {
@@ -24,7 +24,7 @@ public class MessageUtils {
         player.sendMessage(new TextComponent(ChatColor.translateAlternateColorCodes('&', msg)));
     }
 
-    public static void sendPlayerMessage(CommandSender sender, String msg) {
+    public static void sendCommandSenderMessage(CommandSender sender, String msg) {
         sender.sendMessage(new TextComponent(ChatColor.translateAlternateColorCodes('&', msg)));
     }
 }
