@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e903603-8543-497f-b5fe-d9b1a9e0f6ad" name="Changes" comment="Add doc">
+    <list default="true" id="4e903603-8543-497f-b5fe-d9b1a9e0f6ad" name="Changes" comment="Change show server message">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/kenda/fancraftAPI/bungeecord/commands/ShowServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/kenda/fancraftAPI/bungeecord/commands/ShowServer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,27 +45,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Maven.fancraft-api [clean].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.fancraft-api [install].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.fancraft-api [package].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.funkraft-api [clean].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.funkraft-api [install:install-file...].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.funkraft-api [install].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.funkraft-api [package].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.funkraft-api [site].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Bureau/IntellijPlugin/funkraft/funkraft-api&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.345977&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.Java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.fancraft-api [clean].executor": "Run",
+    "Maven.fancraft-api [install].executor": "Run",
+    "Maven.fancraft-api [package].executor": "Run",
+    "Maven.funkraft-api [clean].executor": "Run",
+    "Maven.funkraft-api [install:install-file...].executor": "Run",
+    "Maven.funkraft-api [install].executor": "Run",
+    "Maven.funkraft-api [package].executor": "Run",
+    "Maven.funkraft-api [site].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Bureau/IntellijPlugin/funkraft/funkraft-api",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.345977",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="fr.kenda.fancraftAPI.bungeecord.commands" />
@@ -118,6 +117,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init commit" />
     <MESSAGE value="Add doc" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add doc" />
+    <MESSAGE value="Change show server message" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change show server message" />
   </component>
 </project>
