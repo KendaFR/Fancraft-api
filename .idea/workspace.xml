@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e903603-8543-497f-b5fe-d9b1a9e0f6ad" name="Changes" comment="Init commit">
+    <list default="true" id="4e903603-8543-497f-b5fe-d9b1a9e0f6ad" name="Changes" comment="Add doc">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/kenda/fancraftAPI/bungeecord/managers/DockerManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/kenda/fancraftAPI/bungeecord/managers/DockerManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/kenda/fancraftAPI/bungeecord/utils/Definitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/kenda/fancraftAPI/bungeecord/utils/Definitions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/kenda/fancraftAPI/bungeecord/utils/MessageUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/kenda/fancraftAPI/bungeecord/utils/MessageUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/kenda/fancraftAPI/bungeecord/commands/ShowServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/kenda/fancraftAPI/bungeecord/commands/ShowServer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,6 +117,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Init commit" />
+    <MESSAGE value="Add doc" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add doc" />
   </component>
 </project>

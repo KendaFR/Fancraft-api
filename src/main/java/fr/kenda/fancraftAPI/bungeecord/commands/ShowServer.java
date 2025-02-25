@@ -15,10 +15,9 @@ public class ShowServer extends Command {
     @Override
     public void execute(CommandSender commandSender, String[] strings) {
         if (commandSender.hasPermission(Role.ADMIN.getPermission())) {
-            FancraftApiBungee.getInstance().getProxy().getServers().forEach((s, serverInfo) ->
-            {
-                MessageUtils.sendPlayerMessage(commandSender, s);
-            });
+            MessageUtils.sendCommandSenderMessage(commandSender, "&2===== &a[Servers] &2=====");
+            FancraftApiBungee.getInstance().getProxy().getServersCopy().keySet().forEach(server -> MessageUtils.sendCommandSenderMessage(commandSender, server));
+            MessageUtils.sendCommandSenderMessage(commandSender, "&2===== &a[Servers] &2=====");
         }
     }
 }
