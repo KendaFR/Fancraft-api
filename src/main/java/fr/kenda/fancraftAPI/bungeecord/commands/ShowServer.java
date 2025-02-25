@@ -19,5 +19,6 @@ public class ShowServer extends Command {
             FancraftApiBungee.getInstance().getProxy().getServersCopy().keySet().forEach(server -> MessageUtils.sendCommandSenderMessage(commandSender, server));
             MessageUtils.sendCommandSenderMessage(commandSender, "&2===== &a[Servers] &2=====");
         }
+        //TODO make no valid
     }
 }

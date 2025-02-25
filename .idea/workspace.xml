@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e903603-8543-497f-b5fe-d9b1a9e0f6ad" name="Changes" comment="Change show server message">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="4e903603-8543-497f-b5fe-d9b1a9e0f6ad" name="Changes" comment="test">
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/kenda/fancraftAPI/bungeecord/commands/ShowServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/kenda/fancraftAPI/bungeecord/commands/ShowServer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,6 +118,7 @@
     <MESSAGE value="Init commit" />
     <MESSAGE value="Add doc" />
     <MESSAGE value="Change show server message" />
-    <option name="LAST_COMMIT_MESSAGE" value="Change show server message" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
 </project>
